@@ -1,0 +1,378 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="app_name_ru">Викторина</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="quizzes">Викторины</string>
+    <string name="statistics">Статистика</string>
+    <string name="about">Об игре</string>
+    <string name="settings">Настройки</string>
+    <string name="quit">Выйти</string>
+    <string name="text_temp_current_coins">0 монет</string>
+    <string name="choose_your_path">Выберите категорию</string>
+    <string name="text_category_science">Научные</string>
+    <string name="text_category_science_description">Отвечая на научные вопросы, можно значительно
+        расширить свой кругозор. Независимо от того, знали ли вы большинство ответов или слышите
+        правильные ответы впервые, научные факты всегда удивительны!</string>
+    <string name="text_category_geography">Географические</string>
+    <string name="text_category_geography_description">Не всем нравятся вопросы по географии,
+        поэтому их добавление - это отличный способ сделать вечер Викторин более интересным.
+        Но даже если люди не охотно ищут географические вопросы, они наверняка знают
+        небольшие факты, которые сделают вашу игру более захватывающей!</string>
+    <string name="text_category_sport">Спортивные</string>
+    <string name="text_category_sport_description">Независимо от того, занимаетесь ли вы и ваши
+        друзья спортом или просто любите спортивные вопросы, вам будет интересно посмотреть,
+        на сколько вопросов по этой теме вы сможете правильно ответить.</string>
+    <string name="text_category_movie">Киношные</string>
+    <string name="text_category_movie_description">Вы и ваши друзья любители кино?
+        Если вы ответили “да”, то вам обязательно понравятся вопросы и ответы в игре “Кинотривия”.
+        Вы отлично проведете время, обсуждая фильмы, которые вы любили, ненавидели или о которых
+        вообще не знали!</string>
+    <string name="text_btn_next">Следующий</string>
+    <string name="continue_game">Пропустить</string>
+    <string name="text_current_question_and_questions_count">Вопрос %1$s</string>
+    <string name="text_earned_coins">Вы заработали %1$s монет!</string>
+    <string name="text_earned_coins_single">Вы заработали %1$s монету!</string>
+    <string name="text_current_coins">Текущие монеты: %1$s</string>
+    <string name="text_won_coins">Поздравляем вы выиграли %1$s монет</string>
+    <string name="text_daily_spin_counts">Попытки: %1$s/5</string>
+    <string name="text_congrats">Великолепно!</string>
+    <string name="snack_exit_text">Нажмите кнопку назад еще раз чтобы выйти.</string>
+    <string name="text_home">Главное меню</string>
+    <string name="text_choose_category">Выбрать категорию</string>
+    <string name="text_try_one_more_time">Попробуйте ещё раз, у вас точно получится!</string>
+    <string name="text_do_not_worry">Не волнуйтесь!</string>
+    <string name="text_sound_effects">Звуковые эффекты</string>
+    <string name="text_music_effects">Фоновая музыка</string>
+    <string name="text_clear_records">Очистить историю</string>
+    <string name="text_spin_wheel">Колесо фортуны</string>
+    <string name="text_spin_wheel_description">КРУТИТЕ\nЧтобы выиграть монеты</string>
+    <string name="text_coins">МОНЕТ</string>
+    <string name="shp_music">shp_music</string>
+    <string name="shp_sound">shp_sound</string>
+    <string name="shp_record">shp_record</string>
+    <string name="text_no_records">Записей нет!</string>
+    <string name="dialog_clear_records_text">Вы хотите очистить свои записи?</string>
+    <string name="no">Нет</string>
+    <string name="yes">Да</string>
+    <string name="text_clear_record_success">Записи успешно удалены!</string>
+    <string name="close">Закрыть</string>
+    <string name="text_about_app_full">В этой игре вы можете проверить свои знания, отвечая на вопросы по выбранной вами категории.</string>
+    <string name="text_restart_quiz">Начать сначала</string>
+    <string name="text_limit_is_over">Приходите завтра ежедневный лимит закончился</string>
+
+    <string-array name="questions_science">
+        <item>Какое стихийное бедствие измеряется по шкале Рихтера?</item>
+        <item>Какая планета находится ближе всего к Солнцу?</item>
+        <item>Из какого вещества состоят ногти?</item>
+        <item>Что означает термин ДНК?</item>
+        <item>Кто был первым человеком, увидевшим луны Юпитера?</item>
+        <item>Кто была первой женщиной, получившей Нобелевскую премию в 1903 году?</item>
+        <item>“K” - это химический символ какого элемента?</item>
+        <item>Кто был первым человеком, побывавшим на Луне?</item>
+        <item>Как называются животные, которые питаются только растениями?</item>
+        <item>Что это за животное - косатка?</item>
+    </string-array>
+
+    <string-array name="questions_science_answers">
+        <item>Землетрясения</item>
+        <item>Меркурий</item>
+        <item>Кератин</item>
+        <item>Дезоксирибонуклеиновая кислота</item>
+        <item>Галилео Галилей</item>
+        <item>Мари Кюри</item>
+        <item>Калий</item>
+        <item>Нил Армстронг</item>
+        <item>Травоядные</item>
+        <item>Кит</item>
+    </string-array>
+
+    <string-array name="question_science_option1">
+        <item>Торнадо</item>
+        <item>Земля</item>
+        <item>Серотонин</item>
+        <item>Дезоксирибонуклеарная кислота</item>
+        <item>Галилео Галилей</item>
+        <item>Перл Бак</item>
+        <item>Хром</item>
+        <item>Джеймс Б. Ирвин</item>
+        <item>Плотоядные</item>
+        <item>Тюлень</item>
+    </string-array>
+
+    <string-array name="question_science_option2">
+        <item>Землетрясения</item>
+        <item>Марс</item>
+        <item>Эпидермис</item>
+        <item>Дуорибонуклеиновая кислота</item>
+        <item>Альберт Эйнштейн</item>
+        <item>Розалинд Франклин</item>
+        <item>Титан</item>
+        <item>Пит Конрад</item>
+        <item>Травоядные</item>
+        <item>Осьминог</item>
+    </string-array>
+
+    <string-array name="question_science_option3">
+        <item>Наводнения</item>
+        <item>Меркурий</item>
+        <item>Меланин</item>
+        <item>Дуоксирибонуклеиновая кислота</item>
+        <item>Исаак Ньютон</item>
+        <item>Мария Кюри</item>
+        <item>Водород</item>
+        <item>Алан Шепард</item>
+        <item>Всеядные</item>
+        <item>Акула</item>
+    </string-array>
+
+    <string-array name="question_science_option4">
+        <item>Ураган</item>
+        <item>Венера</item>
+        <item>Кератин</item>
+        <item>Дезоксирибонуклеиновая кислота</item>
+        <item>Николай Коперник</item>
+        <item>Джейн Аддамс</item>
+        <item>Калий</item>
+        <item>Нил Армстронг</item>
+        <item>Вегетарианец</item>
+        <item>Кит</item>
+    </string-array>
+
+    <string-array name="questions_geography">
+        <item>Что является столицей Австралии?</item>
+        <item>Какая страна является самой подверженной землетрясениям страной в мире?</item>
+        <item>Как называется самый маленький океан?</item>
+        <item>Какая река протекает через Париж?</item>
+        <item>Высота горы Эверест составляет 29 029 футов. Но знаете ли вы, какая страна
+            претендует на эту всемирно известную достопримечательность?</item>
+        <item>Какая единственная страна граничит с Великобританией?</item>
+        <item>Где находится “Испанская лестница”?</item>
+        <item>Сколько стран находится внутри Соединенного Королевства?</item>
+        <item>Какая страна имеет аббревиатуру “CH”?</item>
+        <item>Какой самый большой остров в мире?</item>
+    </string-array>
+
+    <string-array name="questions_geography_answers">
+        <item>Канберра</item>
+        <item>Япония</item>
+        <item>Северный Ледовитый океан</item>
+        <item>Река Сена</item>
+        <item>Непал</item>
+        <item>Ирландия</item>
+        <item>Италия</item>
+        <item>Четыре</item>
+        <item>Швейцария</item>
+        <item>Гренландия</item>
+    </string-array>
+
+    <string-array name="question_geography_option1">
+        <item>Канберра</item>
+        <item>Малайзия</item>
+        <item>Северный Ледовитый океан</item>
+        <item>Река Гудзон</item>
+        <item>Колумбия</item>
+        <item>Швеция</item>
+        <item>Италия</item>
+        <item>Три</item>
+        <item>Китай</item>
+        <item>Исландия</item>
+    </string-array>
+
+    <string-array name="question_geography_option2">
+        <item>Аделаида</item>
+        <item>Япония</item>
+        <item>Индийский океан</item>
+        <item>Река Рейн</item>
+        <item>Непал</item>
+        <item>Германия</item>
+        <item>Испания</item>
+        <item>Четыре</item>
+        <item>Швейцария</item>
+        <item>Финляндия</item>
+    </string-array>
+
+    <string-array name="question_geography_option3">
+        <item>Сидней</item>
+        <item>Корея</item>
+        <item>Тихий океан</item>
+        <item>Река Сена</item>
+        <item>Швейцария</item>
+        <item>Австрия</item>
+        <item>Бразилия</item>
+        <item>Пять</item>
+        <item>Куба</item>
+        <item>Гренландия</item>
+    </string-array>
+
+    <string-array name="question_geography_option4">
+        <item>Мельбурн</item>
+        <item>Тайвань</item>
+        <item>Атлантический океан</item>
+        <item>Река Миссисипи</item>
+        <item>Венесуэла</item>
+        <item>Ирландия</item>
+        <item>Австрия</item>
+        <item>Шесть</item>
+        <item>Чили</item>
+        <item>Ирландия</item>
+    </string-array>
+
+    <string-array name="questions_sport">
+        <item>Какой национальный вид спорта Канады?</item>
+        <item>Какой боксер был известен как “The Greatest” и “The People’s Champion”?</item>
+        <item>Сколько минут длится матч по регби?</item>
+        <item>В какой стране были проведены первые Олимпийские игры?</item>
+        <item>Сколько игроков в бейсбольной команде?</item>
+        <item>Какая единственная страна принимала участие во всех чемпионатах мира по футболу?</item>
+        <item>Олимпийские игры проводятся каждые сколько лет?</item>
+        <item>В какой вид спорта, который играют на метлах в Гарри Поттере?</item>
+        <item>Сколько колец на олимпийском флаге?</item>
+        <item>Каков диаметр баскетбольного кольца в сантиметрах?</item>
+    </string-array>
+
+    <string-array name="questions_sport_answers">
+        <item>Лакросс</item>
+        <item>Мухаммед Али</item>
+        <item>Восемьдесят минут</item>
+        <item>Греция</item>
+        <item>9 игроков</item>
+        <item>Бразилия</item>
+        <item>Четыре года</item>
+        <item>Квиддич</item>
+        <item>Пять</item>
+        <item>45.72 см</item>
+    </string-array>
+
+    <string-array name="question_sport_option1">
+        <item>Боулинг</item>
+        <item>Майк Тайсон</item>
+        <item>Восемьдесят минут</item>
+        <item>Италия</item>
+        <item>8 игроков</item>
+        <item>Бразилия</item>
+        <item>Шесть лет</item>
+        <item>Взрывающийся щелчок</item>
+        <item>Семь</item>
+        <item>45.72 см</item>
+    </string-array>
+
+    <string-array name="question_sport_option2">
+        <item>Баскетбол</item>
+        <item>Мухаммед Али</item>
+        <item>Тридцать минут</item>
+        <item>Япония</item>
+        <item>9 игроков</item>
+        <item>Англия</item>
+        <item>Четыре года</item>
+        <item>Скачки на крылатых лошадях</item>
+        <item>Шесть</item>
+        <item>48.26 см</item>
+    </string-array>
+
+    <string-array name="question_sport_option3">
+        <item>Лакросс</item>
+        <item>Флойд Мейвезер</item>
+        <item>Сто двадцать минут</item>
+        <item>Греция</item>
+        <item>10 игроков</item>
+        <item>Испания</item>
+        <item>Пять лет</item>
+        <item>КвадПод</item>
+        <item>Пять</item>
+        <item>43.18 см</item>
+    </string-array>
+
+    <string-array name="question_sport_option4">
+        <item>Футбол</item>
+        <item>Оскар Дела Хойя</item>
+        <item>Шестьдесят минут</item>
+        <item>Франция</item>
+        <item>11 игроков</item>
+        <item>Аргентина</item>
+        <item>Семь лет</item>
+        <item>Квиддич</item>
+        <item>Четыре</item>
+        <item>40.64 см</item>
+    </string-array>
+
+    <string-array name="questions_movie">
+        <item>Каким был первый полнометражный анимационный фильм?</item>
+        <item>Какого цвета была таблетка, которую принимает Нео в фильме “Матрица”?</item>
+        <item>За какой фильм Том Хэнкс получил свою первую номинацию на премию “Оскар”?</item>
+        <item>Кто сыграл детектива Рика Декарда в фильме “Бегущий по лезвию” (1982)?</item>
+        <item>Этот признанный режиссер, лауреат премии “Оскар”, снял фильмы “Делай ноги”,
+            “Бейб: Поросенок в городе” и “Безумный Макс: Дорога ярости”.</item>
+        <item>Какие животные воспитывали Маугли в “Книге джунглей”?</item>
+        <item>В каком диснеевском фильме дебютировала Джули Эндрюс?</item>
+        <item>Кто является первой цветной женщиной, получившей премию “Оскар” за лучшую женскую роль?</item>
+        <item>Радость, Страх, Гнев, Брезгливость and Печаль управляют чьими эмоциями в фильме “Головоломка”?</item>
+        <item>Какой фильм, написанный, снятый и спродюсированный Джеймсом Кэмероном, стал самым кассовым фильмом своего времени?</item>
+    </string-array>
+
+    <string-array name="questions_movie_answers">
+        <item>Белоснежка и семь гномов</item>
+        <item>Красный</item>
+        <item>Большой</item>
+        <item>Харрисон Форд</item>
+        <item>Джордж Миллер</item>
+        <item>Волки</item>
+        <item>Мэри Поппинс</item>
+        <item>Хэлли Берри</item>
+        <item>Райли</item>
+        <item>Титаник</item>
+    </string-array>
+
+    <string-array name="question_movie_option1">
+        <item>Покахонтас</item>
+        <item>Красный</item>
+        <item>Большой</item>
+        <item>Джордж Клуни</item>
+        <item>Дэвид Линч</item>
+        <item>Лисы</item>
+        <item>Шрек</item>
+        <item>Виола Дэвис</item>
+        <item>Бонни</item>
+        <item>Титаник</item>
+    </string-array>
+
+    <string-array name="question_movie_option2">
+        <item>Белоснежка и семь гномов</item>
+        <item>Синий</item>
+        <item>Форрест Гамп</item>
+        <item>Ричард Гир</item>
+        <item>Кристофер Нолан</item>
+        <item>Приматы</item>
+        <item>Мэри Поппинс</item>
+        <item>Керри Вашингтон</item>
+        <item>Бу</item>
+        <item>Аватар</item>
+    </string-array>
+
+    <string-array name="question_movie_option3">
+        <item>Русалочка</item>
+        <item>Зеленый</item>
+        <item>Аполлон 13</item>
+        <item>Харрисон Форд</item>
+        <item>Стивен Спилберг</item>
+        <item>Волки</item>
+        <item>Дневники принцессы</item>
+        <item>Хэлли Берри</item>
+        <item>Энди</item>
+        <item>Терминатор</item>
+    </string-array>
+
+    <string-array name="question_movie_option4">
+        <item>Золушка</item>
+        <item>Желтый</item>
+        <item>Вам письмо</item>
+        <item>Райан Гослинг</item>
+        <item>Джордж Миллер</item>
+        <item>Медведи</item>
+        <item>Звуки музыки</item>
+        <item>Реджина Кинг</item>
+        <item>Райли</item>
+        <item>Правдивая ложь</item>
+    </string-array>
+
+
+</resources>

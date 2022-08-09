@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/shape_background">
+
+    <!--<androidx.appcompat.widget.AppCompatImageView
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:src="@drawable/shape_oval"
+        app:layout_constraintBottom_toTopOf="@id/dialog"
+        app:layout_constraintEnd_toEndOf="@id/dialog"
+        app:layout_constraintStart_toStartOf="@id/dialog"
+        app:layout_constraintTop_toTopOf="@id/dialog" />-->
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:id="@+id/dialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginHorizontal="@dimen/_8sdp"
+
+        android:gravity="center"
+        android:orientation="vertical"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:fontFamily="@font/rubik"
+            android:text="@string/settings"
+            android:textColor="@color/color_black"
+            android:textSize="@dimen/_24ssp"
+            android:textStyle="bold" />
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:id="@+id/sound"
+            style="@style/StyleSettingsContainer"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/toolbar">
+
+            <androidx.appcompat.widget.AppCompatImageView
+                style="@style/StyleCircleIconLeft"
+                android:src="@drawable/ic_sound"
+                app:layout_constraintBottom_toTopOf="@id/text_app_title"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                style="@style/StyleTextViewSettings"
+                android:text="@string/text_sound_effects" />
+
+            <com.google.android.material.checkbox.MaterialCheckBox
+                android:id="@+id/checkbox_sound"
+                style="@style/StyleCheckBoxSettings"
+                android:button="@drawable/selector_settings_sound"
+                android:buttonTint="@color/selector_settings_check_box_tint" />
+
+        </androidx.appcompat.widget.LinearLayoutCompat>
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:id="@+id/music"
+            style="@style/StyleSettingsContainer"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/sound">
+
+            <androidx.appcompat.widget.AppCompatImageView
+                style="@style/StyleCircleIconLeft"
+                android:src="@drawable/ic_music"
+                app:layout_constraintBottom_toTopOf="@id/text_app_title"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                style="@style/StyleTextViewSettings"
+                android:text="@string/text_music_effects" />
+
+            <com.google.android.material.checkbox.MaterialCheckBox
+                android:id="@+id/checkbox_music"
+                style="@style/StyleCheckBoxSettings"
+                android:button="@drawable/selector_settings_music"
+                android:buttonTint="@color/selector_settings_check_box_tint" />
+
+        </androidx.appcompat.widget.LinearLayoutCompat>
+
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/button_close"
+            style="@style/StyleDialogButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/close"
+            android:textAllCaps="true" />
+
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+    <!--<androidx.appcompat.widget.AppCompatImageView
+        android:visibility="invisible"
+        android:layout_width="@dimen/_64sdp"
+        android:layout_height="@dimen/_64sdp"
+        android:background="@drawable/shape_oval"
+        android:padding="@dimen/_8sdp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/ic_info_oval"
+        app:layout_constraintBottom_toTopOf="@id/dialog"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@id/dialog" />-->
+
+</androidx.constraintlayout.widget.ConstraintLayout>

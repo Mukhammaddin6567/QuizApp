@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_restart"
+        android:title="@string/text_restart_quiz" />
+
+    <item
+        android:checked="true"
+        android:checkable="true"
+        android:id="@+id/menu_sound"
+        android:title="@string/text_sound_effects" />
+    <item
+        android:checkable="true"
+        android:id="@+id/menu_music"
+        android:title="@string/text_music_effects" />
+
+</menu>

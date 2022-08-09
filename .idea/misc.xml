@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable-v24/background_orange.xml" value="0.22" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable-v24/ic_clear_record.xml" value="0.22" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable-v24/ic_coin.xml" value="0.22" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable-v24/ic_coins.xml" value="0.22" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable-v24/selector_switch_track.xml" value="0.1715" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable-v24/shape_dialog.xml" value="0.22" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/background_orange.xml" value="0.22" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/ic_about.xml" value="0.2355" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/ic_back.xml" value="0.2355" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/ic_back2.xml" value="0.2355" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/ic_background.xml" value="0.2355" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/ic_check.xml" value="0.22" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/ic_check_off.xml" value="0.217" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/ic_clear.xml" value="0.22" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/ic_clear_black.xml" value="0.22" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/ic_clear_record.xml" value="0.217" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/ic_clear_record_on.xml" value="0.22" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/ic_clear_records.xml" value="0.22" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/ic_coin.xml" value="0.1445" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/ic_geography.xml" value="0.2355" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/ic_info.xml" value="0.22" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/ic_info_oval.xml" value="0.22" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/ic_leaderboard.xml" value="0.2355" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/ic_logo.xml" value="0.2355" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/ic_more.xml" value="0.2355" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/ic_movie.xml" value="0.2355" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/ic_music.xml" value="0.22" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/ic_music_off.xml" value="0.22" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/ic_music_off_black.xml" value="0.22" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/ic_music_on.xml" value="0.22" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/ic_music_on_black.xml" value="0.22" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/ic_quit.xml" value="0.2355" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/ic_quiz.xml" value="0.22" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/ic_quizzes.xml" value="0.2355" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/ic_records.xml" value="0.22" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/ic_records_black.xml" value="0.22" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/ic_restart.xml" value="0.22" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/ic_science.xml" value="0.2355" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/ic_settings.xml" value="0.2355" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/ic_sound.xml" value="0.22" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/ic_sound_off.xml" value="0.22" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/ic_sound_off_black.xml" value="0.22" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/ic_sound_on.xml" value="0.22" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/ic_sound_on_black.xml" value="0.22" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/ic_sport.xml" value="0.2355" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/ic_statistics.xml" value="0.22" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/ic_wheel.xml" value="0.22" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/ic_winner.xml" value="0.2355" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/ic_you_can_do_it.xml" value="0.22" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/selector_back.xml" value="0.2355" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/selector_button_spinner.xml" value="0.22" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/selector_clear_record.xml" value="0.22" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/selector_option.xml" value="0.2355" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/selector_quiz_button.xml" value="0.2355" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/selector_settings_check_box.xml" value="0.22" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/selector_settings_check_box_tint.xml" value="0.22" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/selector_settings_clear_record.xml" value="0.22" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/selector_settings_music.xml" value="0.22" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/selector_settings_sound.xml" value="0.1715" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/selector_switch_track.xml" value="0.1675" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/selector_win_category.xml" value="0.22" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/selector_win_home.xml" value="0.22" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/shape_background.xml" value="0.22" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/shape_categories.xml" value="0.2355" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/shape_category_item.xml" value="0.22" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/shape_dialog.xml" value="0.217" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/shape_image.xml" value="0.22" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/shape_menu_button.xml" value="0.2355" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/shape_option_checked.xml" value="0.2355" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/shape_option_correct.xml" value="0.2355" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/shape_option_default.xml" value="0.2355" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/shape_option_wrong.xml" value="0.2355" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/shape_oval.xml" value="0.22" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/shape_popup.xml" value="0.22" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/shape_quiz_bottom.xml" value="0.2355" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/shape_quiz_button_disabled.xml" value="0.2355" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/shape_quiz_button_enabled.xml" value="0.2355" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/shape_settings.xml" value="0.22" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/shape_settings_circle_image.xml" value="0.22" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/shape_timer.xml" value="0.2355" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/shape_win_button1.xml" value="0.2355" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/drawable/shape_win_button2.xml" value="0.2355" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/layout/activity_main.xml" value="0.31875" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/layout/dialog_about.xml" value="0.33" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/layout/dialog_clear_records.xml" value="0.25" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/layout/dialog_quit_app.xml" value="0.3359375" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/layout/dialog_settings.xml" value="0.22" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/layout/dialog_winner.xml" value="0.33" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/layout/fragment_categories.xml" value="0.33" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/layout/fragment_game.xml" value="0.3359375" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/layout/fragment_menu.xml" value="0.25" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/layout/fragment_quiz.xml" value="0.9" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/layout/fragment_settings.xml" value="0.33" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/layout/fragment_spinner.xml" value="0.33" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/layout/fragment_spinner_old.xml" value="0.3359375" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/layout/fragment_spinner_test.xml" value="0.33" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/layout/fragment_splash.xml" value="0.3359375" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/layout/fragment_statistics.xml" value="0.33" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/layout/fragment_winner.xml" value="0.33" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/layout/item_categories.xml" value="0.2" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/layout/item_categories_new.xml" value="0.2" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/layout/item_categories_test.xml" value="0.22" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/layout/item_quiz_path.xml" value="0.33" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/layout/item_statistics.xml" value="0.3359375" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/layout/layout_popup_menu.xml" value="0.5" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/layout/lucky_wheel_layout.xml" value="0.3359375" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/menu-v26/menu_popup.xml" value="0.3359375" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/menu/menu_popup.xml" value="0.5" />
+        <entry key="..\:/2/projects/QuizApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:layout_margin="@dimen/_8sdp"
+    android:background="?selectableItemBackground"
+    android:orientation="vertical">
+
+    <com.google.android.material.imageview.ShapeableImageView
+        android:id="@+id/img_quiz"
+        android:padding="@dimen/_4sdp"
+        android:layout_width="@dimen/_128sdp"
+        android:layout_height="@dimen/_128sdp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/ic_science"
+        app:shapeAppearanceOverlay="@style/ShapeAppearanceOverlay.App.CornerSize50Percent" />
+
+    <TextView
+        android:id="@+id/category"
+        style="@style/ItemQuizTitle"
+        android:layout_marginBottom="@dimen/_8sdp"
+        android:textColor="@color/color_white"
+        tools:text="Language" />
+
+</androidx.appcompat.widget.LinearLayoutCompat>
